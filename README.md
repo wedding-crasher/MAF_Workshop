@@ -6,6 +6,7 @@
 
 https://learn.microsoft.com/en-us/agent-framework/tutorials/overview
 
+## 🪄 Agent 실습
 
 #### 기본 설정 및 시작하기
 - [**0.Prerequisite.ipynb**](MAF/0.Prerequisite.ipynb) - 사전 준비 사항 및 환경 설정
@@ -34,5 +35,6 @@ https://learn.microsoft.com/en-us/agent-framework/tutorials/overview
 
 ## 🔄 Workflow 실습
 - [**21.SimpleSequentialWorkflow.ipynb**](21.SimpleSequentialWorkflow.ipynb) - 간단한 순차 워크플로우 구현
+- [**22.Agents-In-Workflow.ipynb**](22.Agents-In-Workflow.ipynb) - 워크플로우에서 에이전트 사용하기
 
 ---
