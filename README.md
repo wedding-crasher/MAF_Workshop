@@ -2,6 +2,10 @@
 
 ## 🤖 Microsoft Agent Framework (MAF) 가벼운 실습
 
+이 실습은 Microsoft Learn 사이트의 [**MAF 공식 문서**](https://learn.microsoft.com/en-us/agent-framework/tutorials/overview)를 기반으로 재구성하였습니다. MAF V2는 아직 Preview 상태이기에 간혹 공식 문서의 코드가 올바로 동작하지 않는 문제가 있어서 이를 개선하고자 별도의 가벼운 실습 워크샵을 여기에 작성하고 있는 것입니다. 공식 사이트의 문서는 아래 링크에서 확인할 수 있으며, 계속해서 개선되고 업데이트 될 것이기에 최신 정보를 확인하시려면 공식 문서를 참고하시기 바랍니다. V2가 공식 출시되면 그 시점에는 공식 사이트를 기준으로 실습을 진행하는 것을 권장드립니다.
+
+https://learn.microsoft.com/en-us/agent-framework/tutorials/overview
+
 
 #### 기본 설정 및 시작하기
 - [**0.Prerequisite.ipynb**](MAF/0.Prerequisite.ipynb) - 사전 준비 사항 및 환경 설정
