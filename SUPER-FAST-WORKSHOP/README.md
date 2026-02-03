@@ -42,6 +42,8 @@ python3 -m venv .venv
 source .venv/bin/activate
 ```
 
+> 💡 **(옵션) 가상환경 비활성화**: `deactivate` 입력 (Windows/Mac/Linux 동일) - 지금은 실행하지 마세요!
+
 ### 2️⃣ JupyterLab 설치 & 실행
 
 ```bash
