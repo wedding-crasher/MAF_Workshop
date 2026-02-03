@@ -41,12 +41,12 @@ Create a Foundry Resource 클릭
 
 #### Step 3. Endpoint 확인
 
-배포된 모델의 **Endpoint URL**을 복사해 둡니다.
-
-
-#### Step 4. (옵션) API Key 확인
+배포된 모델의 **Endpoint URL** 과 **(옵션) API Key**를 복사해 둡니다.
 
 `az login` 대신 API Key를 사용할 경우, Key도 복사해 둡니다.
+
+![Endpoint 확인](screenshot/foundry_08.png)
+
 
 ---
 
