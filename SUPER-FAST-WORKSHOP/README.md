@@ -51,7 +51,15 @@ pip install jupyterlab
 python -m jupyter lab
 ```
 
-### 3️⃣ 노트북 열고 시작!
+### 3️⃣ 워크샵 저장소 클론
+
+JupyterLab에서 **Terminal** 열기 (File → New → Terminal) 후:
+```bash
+git clone https://github.com/wedding-crasher/MAF_Workshop.git
+cd MAF_Workshop/SUPER-FAST-WORKSHOP
+```
+
+### 4️⃣ 노트북 열고 시작!
 
 노트북 내 첫 번째 셀에서 `agent-framework` 패키지가 자동 설치됩니다.
 
