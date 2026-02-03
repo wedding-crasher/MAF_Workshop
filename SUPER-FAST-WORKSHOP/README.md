@@ -14,10 +14,10 @@ Microsoft Agent Framework 핸즈온 워크샵 노트북입니다.
 ## ⚡ 환경 설정 (3분)
 
 ### 사전 준비
-- ✅ Python 3.12 설치 완료
+- ✅ [Python 3.12 설치](https://www.python.org/downloads/)
 - ✅ Azure OpenAI 리소스 준비 (Endpoint, Deployment Name)
 - ✅ 인증 방법 택1:
-  - **(권장)** Azure CLI 설치 후 `az login` 실행
+  - **(권장)** [Azure CLI 설치](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli) 후 `az login` 실행
   - 또는 Azure OpenAI API Key 준비
 
 ### 1️⃣ 가상환경 생성 & 활성화
