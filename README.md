@@ -1,4 +1,4 @@
-# MAF Workshop (updated 02.02.2026)
+# MAF Workshop (updated 02.03.2026)
 
 ## 🤖 Microsoft Agent Framework(MAF) V2 가벼운 실습
 
@@ -13,15 +13,13 @@ https://learn.microsoft.com/en-us/agent-framework/tutorials/overview
 
 #### 기본 설정 및 시작하기
 - [**0.Prerequisite.ipynb**](MAF/0.Prerequisite.ipynb) - 사전 준비 사항 및 환경 설정
-- [**1.CreateAgnet.ipynb**](MAF/1.CreateAgnet.ipynb) - 에이전트 생성 기초
+- [**1.CreateAgnet.ipynb**](MAF/1.CreateAgnet.ipynb) - 에이전트 생성 기본
 
-#### 에이전트 기본 기능
+#### 에이전트 기능 활용
 - [**2.Multi-turn-Conversation.ipynb**](MAF/2.Multi-turn-Conversation.ipynb) - 다중 턴 대화 구현
 - [**3.Function-Tool.ipynb**](MAF/3.Function-Tool.ipynb) - Function 도구 사용법
 - [**4.Human-In-Loop.ipynb**](MAF/4.Human-In-Loop.ipynb) - 휴먼 개입 패턴 구현
 - [**5.Structured-Output.ipynb**](MAF/5.Structured-Output.ipynb) - 구조화된 출력 생성 (현재 작업 중)
-
-#### 에이전트 고급 기능
 - [**6.Agent-as-function-tool.ipynb**](MAF/6.Agent-as-function-tool.ipynb) - 에이전트를 Function 도구로 활용
 - [**7.Agent-as-MCP-tool.ipynb**](MAF/7.Agent-as-MCP-tool.ipynb) - 에이전트를 MCP 도구로 활용
 - [**Agent-Type.ipynb**](MAF/Agent-Type.ipynb) - 에이전트 유형 및 기능 비교
@@ -48,6 +46,10 @@ https://learn.microsoft.com/en-us/agent-framework/tutorials/overview
 
 ---
 
-## ✨DevUI 사용방법 안내
-- 📢 [**DevUI/intro.ipynb**](MAF/DevUI/intro.ipynb) - DevUI : 에이전트 및 워크플로우 테스트 앱.
+## 🖼️ DevUI 사용 실습
+- 🔮 [**DevUI/intro.ipynb**](MAF/DevUI/intro.ipynb) - DevUI : 에이전트 및 워크플로우 테스트 앱.
 ---
+    
+## 🧸 AG-UI를 활용한 서버/클라이언트 구축 실습
+- 🧿[**AG-UI/01.Build-server.ipynb**](AG-UI/01.Build-server.ipynb) - AG-UI를 활용한 에이전트 서버 생성 및 테스트
+- 🧿[**AG-UI/02.Build-client.ipynb**](AG-UI/02.Build-client.ipynb) - AG-UI를 활용한 에이전트 클라이언트 만들기

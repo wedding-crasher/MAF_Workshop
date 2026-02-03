@@ -1,0 +1,7 @@
+### AG-UI 서버 호출 테스트 - 기본
+POST http://127.0.0.1:8888/
+Content-Type: application/json
+Accept: text/event-stream
+
+{"messages": [{"role": "user", "content": "What is 2 + 2?"}]}
+
