@@ -91,8 +91,8 @@ MAF는 현재 **Preview 단계**로, 공식 문서의 일부 코드가 올바르
 
 ### 연결 및 조율
 
-- 🔀 [**21.SimpleSequentialWorkflow**](21.SimpleSequentialWorkflow.ipynb) - 간단한 순차 워크플로우 구현
-- 🎭 [**22.Agents-In-Workflow**](22.Agents-In-Workflow.ipynb) - 워크플로우에서 에이전트 사용하기
+- 🔀 [**21.SimpleSequentialWorkflow**](MAF/21.SimpleSequentialWorkflow.ipynb) - 간단한 순차 워크플로우 구현
+- 🎭 [**22.Agents-In-Workflow**](MAF/22.Agents-In-Workflow.ipynb) - 워크플로우에서 에이전트 사용하기
 
 ---
 
