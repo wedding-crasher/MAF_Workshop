@@ -42,14 +42,14 @@ MAF는 현재 **Preview 단계**로, 공식 문서의 일부 코드가 올바르
 
 - 🌟 [**Overview**](MAF/Overview.ipynb) - MAF 개요 및 아키텍처
 - ⚙️ [**0.Prerequisite**](MAF/0.Prerequisite.ipynb) - 사전 준비 사항 및 환경 설정
-- 🤖 [**1.CreateAgnet**](MAF/1.CreateAgnet.ipynb) - 에이전트 생성 기본
+- 🤖 [**1.Create-Agent**](MAF/1.CreateAgent.ipynb) - 에이전트 생성 기본
 
 </td>
 <td width="50%">
 
 #### 🔧 핵심 기능
 
-- 💬 [**2.Multi-turn-Conversation**](MAF/2.Multi-turn-Conversation.ipynb) - 다중 턴 대화 구현
+- 💬 [**2.Multi-turn**](MAF/2.Multi-turn-Conversation.ipynb) - 다중턴 대화 구현
 - 🛠️ [**3.Function-Tool**](MAF/3.Function-Tool.ipynb) - Function 도구 사용법
 - 👤 [**4.Human-In-Loop**](MAF/4.Human-In-Loop.ipynb) - 휴먼 개입 패턴 구현
 
@@ -64,8 +64,8 @@ MAF는 현재 **Preview 단계**로, 공식 문서의 일부 코드가 올바르
 #### 🎨 출력 및 통합
 
 - 📊 [**5.Structured-Output**](MAF/5.Structured-Output.ipynb) - 구조화된 출력 생성 🚧 *작업 중*
-- 🔌 [**6.Agent-as-function-tool**](MAF/6.Agent-as-function-tool.ipynb) - 에이전트를 Function 도구로 활용
-- 🔗 [**7.Agent-as-MCP-tool**](MAF/7.Agent-as-MCP-tool.ipynb) - 에이전트를 MCP 도구로 활용
+- 🔌 [**6.Agent-as-Function**](MAF/6.Agent-as-function-tool.ipynb) - 에이전트를 Function 도구로 활용
+- 🔗 [**7.Agent-as-MCP**](MAF/7.Agent-as-MCP-tool.ipynb) - 에이전트를 MCP 도구로 활용
 - 📱 [**Agent-Type**](MAF/Agent-Type.ipynb) - 에이전트 유형 및 기능 비교
 
 #### 👁️ 모니터링 & 확장
@@ -77,7 +77,7 @@ MAF는 현재 **Preview 단계**로, 공식 문서의 일부 코드가 올바르
 
 - 💿 [**10.Persist-and-Resume**](MAF/10.Persist-and-Resume.ipynb) - 에이전트 상태 저장 및 복원
 - 🗄️ [**11.ExternalStorage-Redis**](MAF/11.ExternalStroage-Redis.ipynb) - Redis를 활용한 외부 스토리지 연동
-- 🧠 [**12.Memory_Agent**](MAF/12.Memory_Agent.ipynb) - 메모리 기능을 가진 에이전트 구현 🚧 *작업 중*
+- 🧠 [**12.Memory_Agent**](MAF/12.Memory_Agent.ipynb) - 메모리 기능을 가진 에이전트 구현
 
 ---
 
